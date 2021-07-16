@@ -1,5 +1,8 @@
 name: LaTeX build
-on: [workflow-dispatch]
+on:
+  push:
+    branches-ignore:
+      - 'gh-action-result/pdflatex'
 jobs:
   build_latex:
     runs-on: ubuntu-latest
