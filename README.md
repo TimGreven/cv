@@ -1,15 +1,15 @@
 
 ![LaTeX build](../../workflows/LaTeX%20build/badge.svg)
-[![Latest build of LeoCStein.pdf](https://img.shields.io/badge/LeoCStein.pdf-latest-orange.svg?style=flat)](../gh-action-result/pdflatex/LeoCStein.pdf)
-[![Latest build of LeoCStein-NoPubs.pdf](https://img.shields.io/badge/LeoCStein--NoPubs.pdf-latest-orange.svg?style=flat)](../gh-action-result/pdflatex/LeoCStein-NoPubs.pdf)
-[![Latest build of LeoCStein-PubsOnly.pdf](https://img.shields.io/badge/LeoCStein--PubsOnly.pdf-latest-orange.svg?style=flat)](../gh-action-result/pdflatex/LeoCStein-PubsOnly.pdf)
+[![Latest build of TimGreven.pdf](https://img.shields.io/badge/TimGreven.pdf-latest-orange.svg?style=flat)](../gh-action-result/pdflatex/TimGreven.pdf)
+[![Latest build of TimGreven-NoPubs.pdf](https://img.shields.io/badge/TimGreven--NoPubs.pdf-latest-orange.svg?style=flat)](../gh-action-result/pdflatex/TimGreven-NoPubs.pdf)
+[![Latest build of TimGreven-PubsOnly.pdf](https://img.shields.io/badge/TimGreven--PubsOnly.pdf-latest-orange.svg?style=flat)](../gh-action-result/pdflatex/TimGreven-PubsOnly.pdf)
 
-# Leo's curriculum vitae LaTeX source
+# Tim's curriculum vitae (forked from Leo)
 
 Please feel free to clone this repo if you like the style and want to use it for your CV.  If you're going to customize it, you need to know the layout of the contents:
-- [LeoCStein.tex](LeoCStein.tex): The top-level file. Includes all content *except* for list of publications, list of talks, and contact info.
-- [LeoCStein-NoPubs.tex](LeoCStein-NoPubs.tex): Another top-level file, which just sets a flag and includes the above. Generates a CV without pub list.
-- [LeoCStein-PubsOnly.tex](LeoCStein-PubsOnly.tex): Another top-level file. Generates just a publication list (with contact info header).
+- [TimGreven.tex](TimGreven.tex): The top-level file. Includes all content *except* for list of publications, list of talks, and contact info.
+- [TimGreven-NoPubs.tex](TimGreven-NoPubs.tex): Another top-level file, which just sets a flag and includes the above. Generates a CV without pub list.
+- [TimGreven-PubsOnly.tex](TimGreven-PubsOnly.tex): Another top-level file. Generates just a publication list (with contact info header).
 
 The following files are included by the above (they can not be compiled by themselves):
 - [ContactContent.tex](ContactContent.tex): Contains the contact info header with physical address, email address, web site, office phone
