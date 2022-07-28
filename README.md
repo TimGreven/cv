@@ -1,8 +1,8 @@
 
 ![LaTeX build](../../workflows/LaTeX%20build/badge.svg)
-[![Latest build of TimWassink.pdf](https://img.shields.io/badge/TimGreven.pdf-latest-orange.svg?style=flat)](../gh-action-result/pdflatex/TimGreven.pdf)
-[![Latest build of TimWassink-NoPubs.pdf](https://img.shields.io/badge/TimGreven--NoPubs.pdf-latest-orange.svg?style=flat)](../gh-action-result/pdflatex/TimGreven-NoPubs.pdf)
-[![Latest build of TimWassink-PubsOnly.pdf](https://img.shields.io/badge/TimGreven--PubsOnly.pdf-latest-orange.svg?style=flat)](../gh-action-result/pdflatex/TimGreven-PubsOnly.pdf)
+[![Latest build of TimWassink.pdf](https://img.shields.io/badge/TimWassink.pdf-latest-orange.svg?style=flat)](../gh-action-result/pdflatex/TimWassink.pdf)
+[![Latest build of TimWassink-NoPubs.pdf](https://img.shields.io/badge/TimWassink--NoPubs.pdf-latest-orange.svg?style=flat)](../gh-action-result/pdflatex/TimWassink-NoPubs.pdf)
+[![Latest build of TimWassink-PubsOnly.pdf](https://img.shields.io/badge/TimWassink--PubsOnly.pdf-latest-orange.svg?style=flat)](../gh-action-result/pdflatex/TimWassink-PubsOnly.pdf)
 
 # Tim's curriculum vitae (forked from Leo)
 
